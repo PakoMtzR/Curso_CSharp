@@ -1,6 +1,12 @@
 
 # Scripts de C# :cat: :computer: :fearful:
 ----
+<div>
+   <p style = 'text-align:center;'>
+      <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="30%">
+   </p>
+</div>
+
 ## Ejercicios (Tarea 1):
 
 1. Generar un algoritmo que permita calcular el factorial de un número N ingresado por el usuario, debe tomarse en cuenta que el usuario solo puede ingresar números enteros y positivos.
